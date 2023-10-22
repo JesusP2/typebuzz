@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@tsconfig/node-lts': ^18.12.5
+  '@tsconfig/node20': ^20.1.2
+
+devDependencies:
+  '@tsconfig/node-lts': 18.12.5
+  '@tsconfig/node20': 20.1.2
+
+packages:
+
+  /@tsconfig/node-lts/18.12.5:
+    resolution: {integrity: sha512-KJZX0kQ5FBv77WDVzmQ9y1dUjaJCNXAAz3LSsg5cMwH0AUijVdDQtII+IVprEXdb13U9GjVOBxBzyRvr/ozPxw==}
+    dev: true
+
+  /@tsconfig/node20/20.1.2:
+    resolution: {integrity: sha512-madaWq2k+LYMEhmcp0fs+OGaLFk0OenpHa4gmI4VEmCKX4PJntQ6fnnGADVFrVkBj0wIdAlQnK/MrlYTHsa1gQ==}
+    dev: true
